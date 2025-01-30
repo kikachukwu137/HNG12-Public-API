@@ -51,7 +51,7 @@ Ensure you have **Node.js** installed on your system.
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/kikachukwu137/HNG12-API.git
+git clone https://github.com/kikachukwu137/HNG12-Public-API.git
 cd HNG12-API
 ```
 
@@ -89,7 +89,7 @@ This API must be **deployed** to a publicly accessible endpoint. You can deploy 
 ---
 
 ## Links
-- **GitHub Repository**: [https://github.com/kikachukwu137/HNG12-API](https://github.com/kikachukwu137/HNG12-Pulic-API)
+- **GitHub Repository**: [https://github.com/kikachukwu137/HNG12-API](https://github.com/kikachukwu137/HNG12-Public-API)
 
 
 ---
