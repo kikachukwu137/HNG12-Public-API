@@ -89,7 +89,7 @@ This API must be **deployed** to a publicly accessible endpoint. You can deploy 
 ---
 
 ## Links
-- **GitHub Repository**: [https://github.com/kikachukwu137/HNG12-API](https://github.com/kikachukwu137/HNG12-API)
+- **GitHub Repository**: [https://github.com/kikachukwu137/HNG12-API](https://github.com/kikachukwu137/HNG12-Pulic-API)
 
 
 ---
