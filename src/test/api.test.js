@@ -1,10 +1,10 @@
 
-import request from "supertest";
+import request from "supertest"; // used for testing Http response
 import app from '../app.js'
 
 describe("HNG12 Public API", () => {
   it("should return the required JSON response", async () => {
-    const res = await request(app).get("/"); // Replace "/" with your API endpoint
+    const res = await request(app).get("/"); 
 
     expect(res.statusCode).toBe(200);
     expect(res.body).toHaveProperty("email");
@@ -26,3 +26,4 @@ describe("HNG12 Public API", () => {
     expect(res.statusCode).toBe(404);
   });
 });
+    
